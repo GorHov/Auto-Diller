@@ -13,7 +13,7 @@ const ProfileInfo = () => {
               Phone Number - 094766749
             </h3>
             <h3>
-              Email Adress - gorhovakiman08@gmail.com
+              Email Adress - gorhovakimyan26@gmail.com
             </h3>
           </div>
         </div>
