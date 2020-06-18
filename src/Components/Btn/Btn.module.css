@@ -1,0 +1,29 @@
+.btn{
+    height: 100%;
+    /* width: 15%; */
+    margin-right: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button{
+    width: 70px;
+	height: 30px;
+	border-radius: 10px;
+	border:1px solid rgb(1, 94, 145);
+    background-color: rgb(80, 172, 228);
+}
+
+
+button a{
+	height: 100%;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-family:Arial,sans-serif;
+	color: #FFFFFF;
+	font-weight: bold;
+	text-decoration: none;
+}

@@ -1,0 +1,23 @@
+
+.content{
+    display: flex;
+}
+
+.users{
+    height: 100%;
+    width: 100px;
+    background-color: greenyellow;
+    display: flex;
+    flex-direction: column;
+}
+.users a{
+    text-decoration: none;
+    margin: 10px;
+    color: blue;
+    font-weight: bold;
+}
+
+.message{
+    margin: 10px;
+    font-weight: bold;
+}

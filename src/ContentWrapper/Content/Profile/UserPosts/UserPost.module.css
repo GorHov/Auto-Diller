@@ -1,0 +1,40 @@
+.car_cart{
+  height: 300px;
+  width: 295px;
+  margin-right: 10px;
+  border-radius: 4px;
+  background-color:rgba(212, 212, 212, 0.2) ;
+  /* box-shadow: 0 3px 14px rgba(0, 0, 0, .12) */
+}
+.car_cart:hover {
+  box-shadow: 0 3px 14px rgba(0, 0, 0, .30)
+}
+
+.car_img{
+  height: 70%;
+  /* width: 100%; */
+  margin: 10px;
+  border-radius: 4px;
+  background-color: rgb(194, 205, 224);
+}
+
+.car_info{
+  height: 10%;
+  display: flex;
+  flex-direction: column;
+  /* align-items:center; */
+}
+
+.car_info h3,p{
+  margin: 0;
+}
+.car_info h3{
+  display: flex;
+  justify-content: left;
+  margin:0 0 10px 10px
+}
+.year_price{
+  display: flex;
+  justify-content: space-between;
+  margin:0 10px 0 10px;
+}

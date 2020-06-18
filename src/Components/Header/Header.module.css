@@ -1,0 +1,93 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.header{
+	width: 100%;
+	height: 150px;
+	background-color: #43627e;
+}
+
+.top_info{
+	height: 150px;
+}
+
+.head{
+	height: 100px;
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+.logo{
+	height: 100%;
+	width: 50%;
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+}
+.logo div{
+	height: 100%;
+	width: 319px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-family:Arial,sans-serif;
+	font-size: 48px;
+	color: #FFFFFF;
+	font-weight: bold;
+	text-decoration: none;
+}
+.logo div span{
+	color: #FFB01F;
+}
+
+.acount{
+	height: 100%;
+	width: 50%;
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+}
+
+
+.bg_navigation{
+	height: 50px;
+	background-color: #DDDDDD;
+}
+
+.navigation_wrapper{
+	width: 100%;
+	height: 100%;
+}
+
+.navigation{
+	width: 100%;
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.navigation ul{
+	height: 100%;
+	width: 40%;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+
+}
+
+.navigation ul a{
+	display: inline-block;
+	padding: 0;
+	margin: 0;
+	font-family: Arial,sans-serif;
+	font-weight: bold;
+	color: #3B424A;
+	font-size: 15px;
+	line-height: 25px;
+	text-decoration: none;
+} 
